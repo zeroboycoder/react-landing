@@ -1,0 +1,35 @@
+h1 {
+	margin: 0;
+	padding-bottom: 18px;
+	font-size: 40px;
+}
+
+h3 {
+	margin: 0;
+	padding-top: 20px;
+}
+
+p {
+	margin: 0;
+	line-height: 1.4;
+	letter-spacing: .8px;
+}
+
+.LComponent {
+	width: 50%;
+	padding: 70px 20px 10px 0;
+	box-sizing: border-box;
+}
+
+.LComponent__body {
+	width: 80%;
+	margin-left: auto;
+}
+
+.LComponent__body__list {
+	padding: 8px 0;
+}
+
+.LComponent__body__list p {
+	padding: 8px 0;
+}
